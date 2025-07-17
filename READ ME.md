@@ -97,4 +97,4 @@ input_data.to_csv('transactions.csv',encoding='utf-8')
 ```
 
 # Thank you for reading this document! by jimmy
-# Genshein Open! by Jim
+# Genshin Impact starts up! by Jim
